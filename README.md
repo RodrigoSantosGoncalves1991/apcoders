@@ -38,7 +38,7 @@ Para rodar o sistema em seu computador é necessário que você faça download e
 
 ![xampp](xampp.png)
 
-O banco de dados utilizado neste projeto foi implementado em MySQL, para você acessar o módulo MySQL do XAMPP, você deve acessar a URL http://localhost/phpmyadmin/, lembre-se que o módulo deve estar ativo como na imagem acima. Quando criar o banco de dados para interagir com o projeto deste repositório deve-se ficar atento a usar os seguintes padrões de nomeação no banco para não precisar renomear código fonte da implementação. Logo, você deve criar um banco com o nome e tabelas com suas colunas nomeadas de acordo com o exposto a seguir:
+O banco de dados utilizado neste projeto foi implementado em MySQL, para você acessar o módulo MySQL do XAMPP, você deve acessar a URL http://localhost/phpmyadmin/, lembre-se que o módulo deve estar ativo como na imagem acima. Quando criar o banco de dados para interagir com o projeto deste repositório fique atento para usar os padrões de nomeação no banco que serão expostos a seguir, para não precisar renomear código fonte da implementação. Logo, você deve criar um banco com o nome e tabelas com suas colunas nomeadas de acordo com o exposto a seguir:
 
 - condominios (banco de dados)
     - despesas (tabela)
