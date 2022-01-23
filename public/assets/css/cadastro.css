@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("../images/cadastro_background.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: rgb(253, 226, 166);
+}
+
+form {
+  max-width: 400px;
+  margin: auto;
+  background-color: #fff;
+  border: 1px solid #c9cacc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+form input {
+  display: block;
+}
+
+form .input {
+  font-size: 15px;
+  height: 40px;
+  width: 100%;
+  outline: 0;
+  border: 0;
+  background-color: #eee;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+form select {
+  display: block;
+}
+
+form .select {
+  font-size: 15px;
+  height: 50px;
+  width: 100%;
+  outline: 0;
+  border: 0;
+  background-color: #eee;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+form .input:focus {
+  background-color: #ddd;
+}
+
+form label {
+  font-size: 18px;
+  padding: 10px;
+}
+
+form .botao {
+  border: 0;
+  padding: 10px 20px;
+  background-color: #4a76a8;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 15px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  box-shadow: 0px 0px 3px #999;
+}
+
+form .botao:hover {
+  background-color: #477dbb;
+}
+
+form a {
+  text-decoration: none;
+  color: #4a76a8;
+}
+
+.aviso {
+  border: 2px solid red;
+  background-color: red;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.sucesso {
+  border: 2px solid blue;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}

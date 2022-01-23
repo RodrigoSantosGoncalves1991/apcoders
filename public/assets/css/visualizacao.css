@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica;
+    font-size: 13px;
+    margin: 20px;
+    background-image: url("../images/visualizacao_background.png");
+    background-size: 100%;
+}
+
+table {
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+table th {
+    padding: 10px;
+    background-color: rgb(113, 191, 255);
+}
+
+table tr td {
+    padding: 10px;
+}
+
+table tr:hover td {
+    background-color: #EEE;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+label {
+    font-size: 15px;
+    height: 40px;
+    width: 100%;
+    outline: 0;
+    border: 0;
+    background-color: #eee;
+    border-radius: 10px;
+    padding: 7px;
+    margin-bottom: 10px;
+}
