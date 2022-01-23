@@ -31,3 +31,9 @@ class Usuario extends Model {
 
 }
 ```
+
+## Instruções de como rodar a aplicação 
+
+Para rodar o sistema em seu computador é necessário que você faça download e instale o XAMPP (XAMPP é uma distribuição do Apache fácil de instalar contendo PHP e MySQL), no link a seguir temos as opções para download: https://www.apachefriends.org/pt_br/download.html, o projeto foi implementado usando a linguagem de programação PHP e padrão de projetos MVC, o banco de dados utilizado no projeto foi o MySQL, na figura a seguir vemos como utilizar o XAMPP no projeto, basicamente você deve ativar os módulos Apache e MySQL:
+
+![alt text](https://drive.google.com/file/d/1FXjwHvEQXdhML6oaIElvf6tsXuC-0nYN/view?usp=sharing)
