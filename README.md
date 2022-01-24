@@ -6,7 +6,9 @@ Ao descompactar, é necessário rodar o **composer** pra instalar as dependênci
 Vá até a pasta do projeto, pelo *prompt/terminal* e execute:
 > composer install
 
-Depois é só aguardar.
+Depois é só aguardar. Quando concluir a instalação a pasta com os arquivos a seguir apareceram, nela temos bibliotecas importantes para as operações com o banco de dados:
+
+![dependencias](dependencias.png)
 
 ## Configuração
 Todos os arquivos de **configuração** e aplicação estão dentro da pasta *src*.
