@@ -34,7 +34,7 @@ class Usuario extends Model {
 
 ## Instruções de como rodar a aplicação 
 
-Para rodar o sistema em seu computador é necessário que você faça download e instale o XAMPP (XAMPP é uma distribuição do Apache fácil de instalar contendo PHP e MySQL), no link a seguir temos as opções para download: https://www.apachefriends.org/pt_br/download.html, o projeto foi implementado usando a linguagem de programação PHP e padrão de projetos MVC, o banco de dados utilizado no projeto foi o MySQL, na figura a seguir vemos como utilizar o XAMPP no projeto, basicamente você deve ativar os módulos Apache e MySQL, além disso você deve clonar este repositório para dentro da pasta htdocs no XAMPP o caminho da pasta se você estiver em um sitema windows por exemplo será este: C:\xampp\htdocs, com o XAMPP ativado você acessara o projeto em http://localhost/apcoders/public/.
+Para rodar o sistema em seu computador é necessário que você faça download e instale o XAMPP (XAMPP é uma distribuição do Apache fácil de instalar contendo PHP e MySQL), no link a seguir temos as opções para download: https://www.apachefriends.org/pt_br/download.html, o projeto foi implementado usando a linguagem de programação PHP 8 e padrão de projetos MVC, o banco de dados utilizado no projeto foi o MySQL, na figura a seguir vemos como utilizar o XAMPP no projeto, basicamente você deve ativar os módulos Apache e MySQL, além disso você deve clonar este repositório para dentro da pasta htdocs no XAMPP o caminho da pasta se você estiver em um sitema windows por exemplo será este: C:\xampp\htdocs, com o XAMPP ativado você acessara o projeto em http://localhost/apcoders/public/.
 
 ![xampp](xampp.png)
 
