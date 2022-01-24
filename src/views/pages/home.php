@@ -27,10 +27,7 @@
             <a href="<?=$base;?>/despesas/cadastro">Cadastro de despesas</a>
         </li>
         <li>
-            <a href="<?=$base;?>/despesas/editar">Edição de despesas</a>
-        </li>
-        <li>
-            <a href="<?=$base;?>/despesas/visualizar">Visualização das despesas</a>
+            <a href="<?=$base;?>/despesas/visualizar">Visualização/Edição das despesas</a>
         </li>
     </ul>
 </div>
